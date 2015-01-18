@@ -1,0 +1,84 @@
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\Internet Shop.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\Internet Shop.pdb
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\System.Web.Providers.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\ru\System.Web.Providers.resources.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\obj\Debug\Internet Shop.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\obj\Debug\Internet Shop.pdb
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\bin\MySql.Data.dll
+D:\Documents\Visual Studio 2012\Projects\Internet Shop\Internet Shop\obj\Debug\Internet Shop.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\Internet Shop.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\Internet Shop.pdb
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\MySql.Data.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\System.Web.Providers.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\ru\System.Web.Providers.resources.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.dll
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.pdb
+D:\Documents\Visual Studio 2012\Projects\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\Internet Shop.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\Internet Shop.pdb
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\MySql.Data.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\System.Web.Providers.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\ru\System.Web.Providers.resources.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.dll
+D:\Documents\Visual Studio 2012\e-Store Kursova\Internet Shop\obj\Debug\Internet Shop.pdb
